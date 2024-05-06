@@ -73,3 +73,12 @@ Feel free to just [Start a Codespace](https://docs.github.com/en/codespaces/gett
 ### DevPod
 
 [DevPod](https://devpod.sh/), select the repo and [start your workspace](https://devpod.sh/docs/getting-started/quickstart-vscode)
+
+createPost(input: CreatePostInput!): Post
+
+```sh
+input CreatePostInput {
+  title: String!
+  body: String!
+}
+```
