@@ -82,3 +82,7 @@ input CreatePostInput {
   body: String!
 }
 ```
+
+### information and solved questions
+
+[Evernote Link](https://www.evernote.com/shard/s365/client/snv?isnewsnv=true&noteGuid=b46c9b02-f09d-2f44-1e60-41d4afe10a91&noteKey=EcJOqqUHtFVM80ilqt0164Ktym8M4eqRprco_vwSYVc7xzBuXQgw5yUnPA&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs365%2Fsh%2Fb46c9b02-f09d-2f44-1e60-41d4afe10a91%2FEcJOqqUHtFVM80ilqt0164Ktym8M4eqRprco_vwSYVc7xzBuXQgw5yUnPA&title=coderslink%2Btest)
