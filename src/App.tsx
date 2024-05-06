@@ -17,22 +17,6 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
 });
 
-type Post = {
-  id: number;
-  title: string;
-  body: string;
-};
-
-const NewPostItem = (post: Post) => (
-  <div key={post.id} className="bg-secondary rounded-md px-2 py-1 mt-4">
-    <h2>{post.title}</h2>
-    <p className="text-dark-body text-sm m-0">{post.body}</p>
-  </div>
-);
-
-export const Main = () => {
-  return <div className="container mx-auto py-8">holi</div>;
-};
 
 function App() {
   return (
